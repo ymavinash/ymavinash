@@ -4,7 +4,7 @@
 
 ### `Software Engineer` • `National-Level Table Tennis Player` • `Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=E63946&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Production+Support+%E2%86%92+Software+Engineering;Building+%2F+Breaking+%2F+Fixing+Things;Table+Tennis+%E2%80%A2+Football+%E2%80%A2+F1+%E2%80%A2+Cricket;Always+learning.+Always+shipping." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=E63946&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Backend+Developer+%E2%86%92+Software+Engineering;Building+%2F+Breaking+%2F+Fixing+Things;Table+Tennis+%E2%80%A2+Football+%E2%80%A2+F1+%E2%80%A2+Cricket;Always+learning.+Always+shipping." alt="Typing animation" />
 
 <br/>
 
