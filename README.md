@@ -153,7 +153,7 @@ REQUEST
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js,typescript" />
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,js,typescript" />
 
 ### Engineering
 
