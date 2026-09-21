@@ -4,7 +4,7 @@
 
 ### `Software Engineer` • `National-Level Table Tennis Player` • `Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=E63946&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Backend+Developer+%E2%86%92+Software+Engineering;Building+%2F+Breaking+%2F+Fixing+Things;Table+Tennis+%E2%80%A2+Football+%E2%80%A2+F1+%E2%80%A2+Cricket;Always+learning.+Always+shipping." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=E63946&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;Backend+Engineer+%E2%86%92+Software+Engineering;Building+%2F+Breaking+%2F+Fixing+Things;Table+Tennis+%E2%80%A2+Football+%E2%80%A2+F1+%E2%80%A2+Cricket;Always+learning.+Always+shipping." alt="Typing animation" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 │                                                              │
 │  🎓 BE — Sathyabama University                                │
 │  💼 Software Engineer @ LTIMindtree                           │
-│  🏢 Production Support → Development                          │
+│  🏢 Backend Engineer — Java • Spring Boot • Microservices                          │
 │  🏓 National-Level Table Tennis Player                        │
 │  ⚽ Weekend Footballer                                         │
 │  🎮 Builder / Gamer / Experimenter                            │
@@ -99,7 +99,7 @@
 
 **June 2025 → Present**
 
-I started in an **L2 production-support environment** and have been moving deeper into development and engineering work.
+I work as a **Backend Engineer**, building and working with Java, Spring Boot and microservices.
 
 ### 🛠️ What I work with
 
@@ -110,7 +110,7 @@ I started in an **L2 production-support environment** and have been moving deepe
 | 🐇 RabbitMQ | Messaging / asynchronous flows |
 | 🐘 PostgreSQL | Backend data & investigation |
 | 🐳 Docker | Containerized development |
-| 🔍 Production Support | Logs, traces, incidents & root-cause analysis |
+| 🔍 Backend Engineering | APIs, debugging, logs, traces & root-cause analysis |
 | 🧠 Performance | Heap dumps, performance issues & debugging |
 | 🚀 CI/CD | GitHub, Jenkins & engineering workflows |
 | ☁️ PaaS / ROSA | Cloud/container platform exposure |
@@ -120,7 +120,7 @@ I started in an **L2 production-support environment** and have been moving deepe
 > **Reduced recurring support issues by roughly 40% through bug fixes and engineering improvements.**
 
 ```text
-INCIDENT
+REQUEST
    │
    ▼
 🔎 Investigate
@@ -138,7 +138,7 @@ INCIDENT
 🚀 Deploy
    │
    ▼
-📉 Fewer Repeat Issues
+📈 Better Backend Reliability
 ```
 
 ---
